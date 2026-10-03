@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://shinywesley.github.io/weather-reason-support/sitemap.xml
